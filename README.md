@@ -1,5 +1,5 @@
 ### Hi there! I'm Arya Shahi👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+
 
 <!--
 **aryashahi/aryashahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
