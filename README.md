@@ -1,6 +1,6 @@
 <!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! -->
 
-<p align="center"><img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="logo" width="500" />
+<p align="center"><img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="logo" width="250" />
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
 <!-- 
