@@ -24,29 +24,24 @@
  </p>
 
 
-<h3 align="center">✨Let's Connect✨ </h3>
+
 
 <!-- Socials --> 
 
-<!-- <h3 align="center">Let's Connect! :</h3>   -->
+ <h3 align="center">✨Let's Connect! :✨</h3>   -
 <div align="center">
 <a href="https://https://www.linkedin.com/in/aryashahi//" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
-<!-- <a href="https://codepen.io/mahiiverse" target="blank"> -->
+
 
 
 <a href="aryashahi2010@gmail.com" target="blank">
-<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
+<img src="https://github.com/aryashahi/aryashahi/blob/main/gmail.png" style="height: 3rem"/>
 </a>
 
 </div>
 
-<!-- <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p> -->
+
 
 <!-- Tech Stack --> 
 
@@ -70,14 +65,14 @@
 
 <br/>
 <p align="left">
-  <a href="https://aryashahi.dev/">
+<!--   <a href="https://aryashahi.dev/"> -->
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aryashahi&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryashahi&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Wang Liao' Activity Graph](https://activity-graph.herokuapp.com/graph?username=lia0wang&custom_title=Wang%20Liao's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://lia0wang.dev)
+[![Arya Shahi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aryashahi&custom_title=AryaShahi's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://lia0wang.dev)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
