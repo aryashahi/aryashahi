@@ -1,11 +1,17 @@
 <!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! -->
 <!-- <img align="center" src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="300" height="200"/>
 <br> -->
+<img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="Paris" class="center" width="300" height="200">
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+<a>
 
 
-<a href="link" style="text-align: center">
-
-<img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" align="center"  width="300" height="200"/></a>
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Arya+Shahi..)](https://git.io/typing-svg) -->
@@ -79,8 +85,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### 📈 &nbsp;Contribution Statistics
-
+###  &nbsp;
+<h3 align="Center">📈 Contribution Statistics:</h3> 
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aryashahi&show_icons=true&theme=blueberry&hide_border=true" />
