@@ -1,15 +1,15 @@
 <!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! -->
 <!-- <img align="center" src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="300" height="200"/>
 <br> -->
-<img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="Paris" class="center" width="300" height="200">
+<!-- <img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="Paris" class="center" width="300" height="200">
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
-<a>
+ -->
+ <p style="text-align:center;"><img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="Logo"></p>
 
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
