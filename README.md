@@ -54,7 +54,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"  style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" style="height: 4rem"/>
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" style="height: 4rem" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
@@ -63,10 +63,10 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="height: 4rem" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" style="height: 4rem" />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" style="height: 4rem" />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="height: 4rem" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/embeddedc/embeddedc-original.svg" style="height: 4rem" />
-   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.s" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/embeddedc/embeddedc-original-wordmark.svg" style="height: 4rem" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original-wordmark.svg" style="height: 4rem" />
 
 </p>
 
