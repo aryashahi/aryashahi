@@ -65,14 +65,13 @@
 
 <br/>
 <p align="left">
-<!--   <a href="https://aryashahi.dev/"> -->
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aryashahi&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryashahi&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Arya Shahi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aryashahi&custom_title=AryaShahi's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)](https://lia0wang.dev)
+[![Arya Shahi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aryashahi&custom_title=Arya Shahi's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)]
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -80,15 +79,15 @@
 
   <!-- Catto gifs -->
 
-<h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
+<h2 align="center">Cheers if you've read till here. So here's a cute baby yoda for you:</h2>
 
 <div align="center">
-    <img src="https://github.com/mahiiverse1/aryashahi/blob/main/bongo-cat.gif" width="500" height="300"/>
+    <img src="https://github.com/aryashahi/aryashahi/blob/main/groot.gif" width="500" height="300"/>
       
 </div>
 
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
-![Visitor Count](https://profile-counter.glitch.me/aryashahi/count.svg)
+
 
  </div>
