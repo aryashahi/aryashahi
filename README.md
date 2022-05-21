@@ -1,6 +1,5 @@
 <!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! -->
-<!-- <img src="https://profile-counter.glitch.me/aryashahi/count.svg"> -->
-<img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="300" height="200"/>
+<img align="center" src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="300" height="200"/>
 <br>
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
 
