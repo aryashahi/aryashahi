@@ -7,12 +7,24 @@
 
 <img src="https://komarev.com/ghpvc/?username=aryashahi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-## About Me
+
+<h3 align="center">About Me :</h3>  
+ <p>
+ 👩‍🎓  A Sophomore year CSE undergrad at Terna Engineering College.
+<br>🐱 I'm 19 y/o, go by she/her pronouns.
+<br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
+<br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
+<br>👩‍💻 Constantly learning. I'm very interested in Open Source!
+ <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
+ </p>
+
+
+<!-- ## About Me
 
 <!-- Coding GIF image -->
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
-🔭 I’m currently working on **Rust** and **DevOps**
+<!-- 🔭 I’m currently working on **Rust** and **DevOps**
 
 🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
 
@@ -24,16 +36,32 @@
 
 😄 Pronouns: **_He/His_**
 
-📫 How to reach me: **royrustdev@gmail.com**
+📫 How to reach me: **royrustdev@gmail.com** -->
+ -->
+<h3 align="center">🤝🏻 Connect with Me! </h3>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<!-- Socials --> 
 
-<p align="center">
+<!-- <h3 align="center">Let's Connect! :</h3>   -->
+<div align="center">
+<a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+
+<a href="https://codepen.io/mahiiverse" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
+</a>
+
+<a href="mailto:mahiivariar26@gmail.com" target="blank">
+<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
+</a>
+
+</div>
+
+<!-- <p align="center">
 &nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+</p> -->
 
 <!-- Tech Stack --> 
 
