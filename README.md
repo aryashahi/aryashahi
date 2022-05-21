@@ -19,7 +19,7 @@
 <br>🎈 I'm a machine learning and Deep Learning Enthusiast.
 <br>💫 I’m a blooming web developer, currently learning Mern stack.
 <br>📚 I'm a researcher, with two research publications (soon to publish) in machine learning domain!
-<br>⭐ Besides all that I love playing chess, hula hoops, dogs, BTS & all things aesthetic.
+<br>⭐ Besides all that I love playing chess, hula hoops, dogs & all things aesthetic.
 <br>👩‍💻 Constantly learning. Currently exploring Open Source and Competive Programming!
  
  </p>
