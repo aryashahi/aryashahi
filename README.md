@@ -2,10 +2,10 @@
 <img align="center" src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="300" height="200"/>
 <br>
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Arya+Shahi..)](https://git.io/typing-svg)
+<!-- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Arya+Shahi..)](https://git.io/typing-svg) -->
 <!-- <img src="https://komarev.com/ghpvc/?username=aryashahi&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Arya Shahi.</h1>
 
 <!-- ## About Me
 
@@ -24,7 +24,7 @@
  </p>
 
 
-<h3 align="center">🤝🏻 Connect with Me! </h3>
+<h3 align="center">✨Let's Connect✨ </h3>
 
 <!-- Socials --> 
 
