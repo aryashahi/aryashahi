@@ -93,7 +93,7 @@
 
   <!-- Catto gifs -->
 
-<h2 align="center">Cheers if you've read till here. So here's a cute baby yoda for you:</h2>
+<h2 align="center">Cheers if you've read till here. So here's a cute 🐼 for you:</h2>
 
 <div align="center">
     <img src="https://github.com/aryashahi/aryashahi/blob/main/panda.gif" width="300" height="200"/>
