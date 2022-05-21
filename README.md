@@ -1,6 +1,11 @@
 <!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! -->
-<img align="center" src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="300" height="200"/>
-<br>
+<!-- <img align="center" src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="300" height="200"/>
+<br> -->
+
+
+<a href="link" style="text-align: center">
+
+<img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" align="center"  width="300" height="200"/></a>
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Arya+Shahi..)](https://git.io/typing-svg) -->
