@@ -1,15 +1,5 @@
 <!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! -->
-<!-- <img align="center" src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="300" height="200"/>
-<br> -->
-<!-- <img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="Paris" class="center" width="300" height="200">
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
- -->
-<!--  <p style="text-align:center;"><img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="Logo"></p> -->
+
 <p align="center"><img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="logo" width="500" />
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
@@ -17,11 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Arya+Shahi..)](https://git.io/typing-svg) -->
 <!-- <img src="https://komarev.com/ghpvc/?username=aryashahi&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Arya Shahi.</h1>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
-<!-- ## About Me
-
-
- -->
+<!-- about me -->
 <h3 align="center">About Me :</h3>  
  <p>
  👩‍🎓  A Junior year ECE undergrad at Banasthali Vidyapith.
