@@ -30,18 +30,20 @@
 
  <h3 align="center">✨Let's Connect! :✨</h3>   -
 <div align="center">
-<a href="https://https://www.linkedin.com/in/aryashahi//" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/in/aryashahi//" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
 
 
 
-<a href="aryashahi2010@gmail.com" target="blank">
+<a href="mailto:aryashahi2010@gmail.com" target="blank">
 <img src="https://github.com/aryashahi/aryashahi/blob/main/gmail.png" style="height: 3rem"/>
 </a>
 
 </div>
 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 <!-- Tech Stack --> 
 
@@ -60,6 +62,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="height: 4rem" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="height: 4rem" />
 </p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 ### 📈 &nbsp;Contribution Statistics
 
