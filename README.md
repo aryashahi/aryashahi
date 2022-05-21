@@ -1,56 +1,44 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img src="https://profile-counter.glitch.me/aryashahi/count.svg">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+<!-- <img src="https://profile-counter.glitch.me/aryashahi/count.svg"> -->
+<img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" width="500" height="300"/>
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Arya!;I'm+a+Web+Developer...;I'm+a+Researcher..;I'm+a+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=aryashahi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
-
-<h3 align="center">About Me :</h3>  
- <p>
- 👩‍🎓  A Sophomore year CSE undergrad at Terna Engineering College.
-<br>🐱 I'm 19 y/o, go by she/her pronouns.
-<br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
-<br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
-<br>👩‍💻 Constantly learning. I'm very interested in Open Source!
- <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
- </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Arya +Shahi!;)](https://git.io/typing-svg)
+ 
+<!-- I'm+a+Web+Developer...;I'm+a+Researcher..;I'm+a+Machine+Learning+Enthusiast -->
+<!-- <img src="https://komarev.com/ghpvc/?username=aryashahi&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
 
 
 <!-- ## About Me
 
-<!-- Coding GIF image -->
-<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
-<!-- 🔭 I’m currently working on **Rust** and **DevOps**
-
-🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
-
-👯 I’m looking to _collaborate_ on **Rust** projects
-
-🤔 I’m looking for help with **Rust** and **AWS**
-
-💬 Ask me about **Rust**, **DevOps** and **AWS**
-
-😄 Pronouns: **_He/His_**
-
-📫 How to reach me: **royrustdev@gmail.com** -->
  -->
+<h3 align="center">About Me :</h3>  
+ <p>
+ 👩‍🎓  A Junior year ECE undergrad at Banasthali Vidyapith.
+<br>🐾 I'm 20 y/o, go by she/her pronouns.
+<br>🎈 I'm a machine learning and Deep Learning Enthusiast.
+<br>💫 I’m a blooming web developer, currently learning Mern stack.
+<br>📚 I'm a researcher, with two research publications (soon to publish) in machine learning domain!
+<br>⭐ Besides all that I love playing chess, hula hoops, dogs, BTS & all things aesthetic.
+<br>👩‍💻 Constantly learning. I'm very interested in Open Source and Competive Programming!
+ <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
+ </p>
+
+
 <h3 align="center">🤝🏻 Connect with Me! </h3>
 
 <!-- Socials --> 
 
 <!-- <h3 align="center">Let's Connect! :</h3>   -->
 <div align="center">
-<a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://https://www.linkedin.com/in/aryashahi//" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
-<a href="https://codepen.io/mahiiverse" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
-</a>
+<!-- <a href="https://codepen.io/mahiiverse" target="blank"> -->
 
-<a href="mailto:mahiivariar26@gmail.com" target="blank">
+
+<a href="aryashahi2010@gmail.com" target="blank">
 <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 
@@ -85,9 +73,9 @@
 
 <br/>
 <p align="left">
-  <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lia0wang&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lia0wang&theme=blueberry&hide_border=true" />
+  <a href="https://aryashahi.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aryashahi&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryashahi&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
@@ -103,12 +91,12 @@
 <h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
 
 <div align="center">
-    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
+    <img src="https://github.com/mahiiverse1/aryashahi/blob/main/bongo-cat.gif" width="500" height="300"/>
       
 </div>
 
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
-![Visitor Count](https://profile-counter.glitch.me/mahiiverse1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/aryashahi/count.svg)
 
  </div>
