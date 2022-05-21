@@ -4,10 +4,7 @@
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Arya +Shahi!;)]
-<!--  (https://git.io/typing-svg) -->
- 
-<!-- I'm+a+Web+Developer...;I'm+a+Researcher..;I'm+a+Machine+Learning+Enthusiast -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Arya+Shahi!..)](https://git.io/typing-svg)
 <!-- <img src="https://komarev.com/ghpvc/?username=aryashahi&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
 
 
