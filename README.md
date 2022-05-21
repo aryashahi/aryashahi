@@ -9,8 +9,8 @@
   width: 50%;
 }
  -->
- <p style="text-align:center;"><img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="Logo"></p>
-
+<!--  <p style="text-align:center;"><img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="Logo"></p> -->
+<p align="center"><img src="https://github.com/aryashahi/aryashahi/blob/main/penguin.gif" alt="logo" width="500" />
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/aryashahi.svg?style=social&label=Followers)](https://github.com/aryashahi?tab=followers) -->
 <!-- 
