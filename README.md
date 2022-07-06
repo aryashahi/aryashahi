@@ -79,8 +79,8 @@
 ###  &nbsp;
 <h3 align="Center">📈 Contribution Statistics:</h3> 
 <br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aryashahi&show_icons=true&theme=blueberry&hide_border=true" />
+<p align="center">
+<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aryashahi&show_icons=true&theme=blueberry&hide_border=true" /> -->
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryashahi&theme=blueberry&hide_border=true" />
   </a>
 </p>
